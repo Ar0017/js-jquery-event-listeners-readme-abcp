@@ -33,5 +33,4 @@ getIt()
  frameIt()
  pressIt()
  submitIt()
-  });		  });
 });
